@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="17dp"
+    android:gravity="center"
+    android:background="#FFF3E0">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Timer App"
+        android:textSize="40sp"
+        android:textColor="#FB8C00"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/milk_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Milk (1 min)"
+        android:backgroundTint="#FB8C00"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/motor_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Motor (5 min)"
+        android:backgroundTint="#FB8C00"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/toaster_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Toaster (2 min)"
+        android:backgroundTint="#FB8C00"/>
+
+</LinearLayout>
