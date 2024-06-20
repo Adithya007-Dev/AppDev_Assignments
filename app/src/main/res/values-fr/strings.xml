@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Application de Connexion</string>
-    <string name="username_hint">Nom d\'utilisateur</string>
-    <string name="password_hint">Mot de passe</string>
-    <string name="login_button">Connexion</string>
-    <string name="welcome_message">Bienvenue, %s !</string>
-</resources>
