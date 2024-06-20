@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday_Greeting</string>
+    <string name="greeting_title">Happy Birthday!</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="show_greeting_button">Show Greeting</string>
+    <string name="cake_image_desc">Image of a birthday cake</string>
+</resources>
