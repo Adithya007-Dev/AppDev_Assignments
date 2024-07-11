@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomWordExample</string>
+    <string name="add_word">Add Word</string>
+    <string name="enter_word">Enter a word</string>
+    <string name="save">Save</string>
+    <string name="empty_not_saved">Empty word not saved</string>
+</resources>
